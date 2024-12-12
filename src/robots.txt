@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: www.ahoratuloteria.com/sitemap.xml
