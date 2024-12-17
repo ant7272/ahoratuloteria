@@ -59,7 +59,7 @@ const LotteryCards = () => {
   return (
     <div className="p-4 max-w-5xl mx-auto bg-white min-h-screen">
       <div className="mb-4">
-        <label htmlFor="date" className="block text-lg font-medium text-gray-700">
+        <label htmlFor="date" className="block-inline text-lg font-medium text-gray-700">
           Buscar por Fecha:
         </label>
         <input
