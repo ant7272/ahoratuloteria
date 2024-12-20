@@ -57,7 +57,7 @@ const LotteryCards = () => {
   }
 
   return (
-    <div className="p-4 max-w-5xl mx-auto bg-white min-h-screen">
+    <div className="p-4 max-w-7xl mx-auto bg-white min-h-screen">
 
 
 
@@ -74,7 +74,7 @@ const LotteryCards = () => {
         />
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 ">
         {lotteries.map((lottery, index) => (
           <div
             key={index}
@@ -90,6 +90,9 @@ const LotteryCards = () => {
           </div>
         ))}
       </div>
+
+
+
     </div>
   );
 };
