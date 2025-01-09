@@ -58,10 +58,10 @@ const LotteryCards = () => {
 
   return (
     <div className="p-4 max-w-7xl mx-auto bg-white min-h-screen">
-
-
-
       <div className="mb-4">
+      <h1 className=" block text-xl font-medium text-gray-700">
+      Resultados de Loteria Nacional, Leidsa, Loteria Real, La Primera, La Suerte, Loteka LotoDom, New York y Florida
+      </h1>
         <label htmlFor="date" className="block text-lg font-medium text-gray-700">
           Buscar por Fecha: 
         </label>
