@@ -63,7 +63,6 @@ const LotteryCards = () => {
       Resultados de Loteria Nacional, Leidsa, Loteria Real, La Primera, La Suerte, Loteka LotoDom, New York y Florida
       </h1>
       <br />
-      <br />
         <label htmlFor="date" className="block text-lg font-medium text-gray-700">
           Buscar por Fecha: 
         </label>
