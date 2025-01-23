@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: www.ahoratuloteria.com/sitemap.xml
+Sitemap: https://www.ahoratuloteria.com/sitemap.xml
