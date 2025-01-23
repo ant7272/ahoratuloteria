@@ -63,7 +63,7 @@ const LotteryCards = () => {
       Resultados de Lotería Nacional, Leidsa, Lotería Real, La Primera, La Suerte, Loteka, LotoDom, New York y Florida.
       </h1>
       <br />
-        <label htmlFor="date" className="block text-lg font-medium text-gray-700">
+        <label htmlFor="date" className="block text-lg font-medium text-sky-700">
           Buscar por Fecha: 
         </label>
         <input
@@ -81,7 +81,7 @@ const LotteryCards = () => {
             key={index}
             className="bg-white shadow-md rounded-lg p-4 border border-gray-200 hover:shadow-lg transition"
           >
-            <h2 className="text-3x1 font-bold text-teal-600 mb-2">{lottery.name}</h2>
+            <h2 className="text-3x1 font-bold text-sky-700 mb-2">{lottery.name}</h2>
             <p className="text-gray-700">
               <span className="font-medium">Fecha:</span> {lottery.date}
             </p>
